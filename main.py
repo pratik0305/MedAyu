@@ -8,6 +8,7 @@ import requests
 from nltk.corpus import wordnet 
 import nltk
 import operator
+import uvicorn
 from collections import Counter
 nltk.download('wordnet')
 from nltk.corpus import stopwords
