@@ -10,3 +10,4 @@ scikit-learn
 nltk
 BeautifulSoup4
 requests
+uvicorn
